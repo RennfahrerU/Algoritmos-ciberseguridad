@@ -15,6 +15,10 @@ y visualizar los datos sensibles.
 
 ### Uso del aplicativo
 
+#### Biblitecas Requeridas
+
+Están especificadas en requirements.txt para comodidad con entornos virtuales.
+
 #### Usuarios incluidos por defecto:
 
 1) admin:admin
