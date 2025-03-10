@@ -1,0 +1,14 @@
+[
+    {
+        "username": "admin",
+        "clave": "HKsJSMweXeDyMJxqze71/O2MYUKKc+Nt",
+        "salt": "Coqo6mhwxZLzR2lJYgKfog==",
+        "es_admin": true
+    },
+    {
+        "username": "usuario",
+        "clave": "uTy9Dqk1owx9g4n4ameI3YBmYoaryZE2",
+        "salt": "+3EjqTSPwfC/XTM1pFRh6Q==",
+        "es_admin": false
+    }
+]
